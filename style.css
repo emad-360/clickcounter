@@ -1,0 +1,22 @@
+#count{
+    display: block;
+    font-family: Verdana;
+    text-align: center;
+    font-size: 4em;
+    
+    
+}
+#btns{
+    text-align: center;
+}
+.allbtns{
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: rgb(183, 255, 111);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+.allbtns:hover{
+    background-color:rgb(137, 221, 10)
+}
