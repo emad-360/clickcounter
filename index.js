@@ -22,4 +22,5 @@ ResButton.onclick = function(){
     counter.textContent=count;
 }
 })  
+ 
 
