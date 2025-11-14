@@ -1,2 +1,2 @@
 # Click Counter 
-A basic click counting website.
+A basic click counting website. 
